@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**JGHP22/JGHP22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋, I'm João Henrique
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/joaohgp-dev">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/joaohgp-dev/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact&card_width=320" />
+</a>
