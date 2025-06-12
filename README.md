@@ -14,6 +14,8 @@
   <img height="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
   <img height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
 </div>
+
 ----
+
 📫 [LinkedIn](https://linkedin.com/in/joao-henrique-gomes-pereira-07921831b)
 💻 [Meu Portfólio (em breve)](https://joaohgp.dev)
