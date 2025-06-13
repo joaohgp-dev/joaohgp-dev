@@ -26,11 +26,14 @@
 <table>
     <tr align="center">
         <td>
-            <p>
-                Languages|Linguagens
-            </p>
+            Languages | Linguagens
         </td>
     </tr>
+    <tr align="center">
+        <td>
+            <img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
+            <img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
+        </td>
 </table>
 <!--
         <td>
@@ -43,12 +46,6 @@
         Tools & Infra|Ferramentas e infraestrutura
         </td>
     </tr>
-    <tr align="center">
-        <td>
-            <img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
-            <img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
-            <img alt="Bash" height="40" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23F2F2F2" />
-        </td>
         <td>
             <div>
                 <img alt="Pytorch" height="40" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
@@ -64,8 +61,6 @@
             <>
         </td>
         <td>
-            <img alt="Markdown" height="40" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23F2F2F2" />
-            <img alt="Git" height="40" src="https://devicon-website.vercel.app/api/git/original.svg" />
             <img alt="Linux" height="40" src="https://devicon-website.vercel.app/api/linux/original.svg" />
             <img alt="Windows" height="40" src="https://devicon-website.vercel.app/api/windows8/original.svg" />
         </td>
