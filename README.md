@@ -16,7 +16,7 @@
 
 ### |
 
-<img src="https://devicon-website.vercel.app/api/bash/original.svg"></img>
+<img height="40" src="https://devicon-website.vercel.app/api/bash/original.svg"></img>
 
 ### | Tools
 
