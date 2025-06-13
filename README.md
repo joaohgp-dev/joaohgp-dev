@@ -35,13 +35,7 @@ Currently focused on:
 
 ---
 
-## 📌 Highlighted Projects
-
-- 🔍 **[Trackify](https://github.com/joaohgp-dev/trackify)**  
-  Data analytics platform with dashboards, Parquet processing, and client-side caching.
-
-- 🌍 **[Manguesol – NASA Space Apps Challenge](https://github.com/joaohgp-dev/manguesol)**  
-  Python-based seismic data analysis for Moon and Mars using Butterworth filters and Plotly.
+## 📌 Highlighted Projects (Coming sonn!)
 
 ---
 
