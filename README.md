@@ -48,17 +48,32 @@ I'm a Brazilian computer engineering student. I'm passionate about artificial in
         <td>
             <img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
             <img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
-            <img alt="bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+            <img alt="Bash" height="40" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23F2F2F2" />
         </td>
         <td>
-        . 
+            <div>
+                <img alt="Pytorch" height="40" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
+                <img alt="TensorFlow" height="40" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
+                <img alt="Jupyter" height="40" src="https://devicon-website.vercel.app/api/jupyter/original.svg" />
+            </div>
+            <div>
+                <img alt="Numpy" height="40" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
+                <img alt="Pandas" height="40" src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23F2F2F2" />
+            </div>
+        </td>
+        <td>
+            <>
+        </td>
+        <td>
+            <img alt="Markdown" height="40" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23F2F2F2" />
+            <img alt="Git" height="40" src="https://devicon-website.vercel.app/api/git/original.svg" />
+            <img alt="Linux" height="40" src="https://devicon-website.vercel.app/api/linux/original.svg" />
+            <img alt="Windows" height="40" src="https://devicon-website.vercel.app/api/windows8/original.svg" />
         </td>
     </tr>
 </table>
 
 
-<img alt="Linux" height="40" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
-<img alt="Windows" height="40" src="https://devicon-website.vercel.app/api/windows8/original.svg"></img>
 
 #### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
