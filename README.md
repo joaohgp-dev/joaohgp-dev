@@ -30,23 +30,25 @@ I'm a Brazilian computer engineering student. I'm passionate about artificial in
 <table>
     <tr align="center">
         <td>
-        Languages | Linguagens    
+            <p>
+                Languages|Linguagens
+            </p>
         </td>
         <td>
         Frameworks 
         </td>
         <td>
-        Data Bases | Bancos de dados 
+        Data Bases|Bancos de dados
         </td>
         <td>
-        Dev Tools & Infra | Ferramentas e infraestrutura
+        Dev Tools & Infra|Ferramentas e infraestrutura
         </td>
     </tr>
     <tr align="center">
         <td>
             <img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
             <img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
-            <img alt="bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="border-radius: 5px"/>
+            <img alt="bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
         </td>
         <td>
         . 
