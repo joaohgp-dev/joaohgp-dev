@@ -23,13 +23,15 @@
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
 
 <!--
-#### Languages | Linguagens
-  
-<img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg" />Python<img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />C++
+### Curent focus in:
 
-#### Frameworks
-  
-<img alt="Pytorch" height="40" src="https://devicon-website.vercel.app/api/pytorch/original.svg" /><img alt="TensorFlow" height="40" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" /><img alt="Jupyter" height="40" src="https://devicon-website.vercel.app/api/jupyter/original.svg" /><img alt="Numpy" height="40" src="https://devicon-website.vercel.app/api/numpy/original.svg" /><img alt="Pandas" height="40" src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23F2F2F2" />
+<img alt="Python" title="Python" height="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+<img alt="C++" title="C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img alt="Pytorch" title="Pytorch" height="50" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
+<img alt="TensorFlow" title="TensorFlow" height="50" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
+<img alt="Jupyter" title="Jupyter" height="50" src="https://devicon-website.vercel.app/api/jupyter/original.svg" />
+<img alt="Numpy" title="Numpy" height="50" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
+<img alt="Pandas" title="Pandas" height="50" src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23F2F2F2" />
 -->
 <!-- ### 📌 Highlighted Projects (Coming sonn!) -->
 
