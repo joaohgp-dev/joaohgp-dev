@@ -1,5 +1,6 @@
-## Hi! I'm João Henrique 👨‍💻
-(Olá! Sou João Henrique 👨‍💻)
+
+## 👋 Hi! I'm João Henrique | Olá! Sou João Henrique 
+
 
 &nbsp;
 <div align="center">
@@ -9,35 +10,32 @@
 </div>
 &nbsp;
 
-<p>
-    I'm a computer engineering student from Brazil 🇧🇷. Passionate about intelligent systems, , and emerging technologies.<br>
-    (Eu sou estudante de engenharia da computação do Brasil 🇧🇷. Aficcionado por sistemas inteligentes, , e tecnologias emergentes.)
-</p>
+### 👨‍💻 About me | Sobre mim
 
-Currently focused on:
-(Atualmente focado em:)
+I'm a Brazilian computer engineering student. I'm passionate about artificial intelligence, embedded systems and emerging technologies.
+(Sou estudante de engenharia da computação brasileiro. Sou aficionado por inteligência artificial, sistemas embarcados e tecnologias emergentes.)
 
-- 🤖 Artificial Intelligence and Neural Networks
-    (Inteligência articial e redes neurais)
-- 📡 Embedded Systems and IoT
-    (Sistemas embarcados e IoT)
-- ⚛️ Quantum Computing (beginner level)
-    (Computação Quântica (Nível introdutório))
----
+&nbsp;
 
-## 🛠️ Tools & Technologies
-(Ferramentas e Tecnologias)
+### 🌱 Currently Learning | Estudando atualmente
 
-### Languages
-(Linguagens)
-<img height="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
-<img height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+- Machine Learning | Aprendizado de máquina
+- Neural Networks | Redes Neurais
+- IoT & Microcontrollers | IoT e Microcontroladores
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+&nbsp;
 
-### Tools
+### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
+
+#### Languages | Linguagens
+<img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+<img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+
+#### Operational systems | Sistemas operacionais
+<img alt="Python" height="40" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
+<img alt="Python" height="40" src="https://devicon-website.vercel.app/api/windows8/original.svg"></img>
+
+#### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
