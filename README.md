@@ -60,4 +60,4 @@ Currently focused on:
 ## 📫 Let's connect!
 
 - [LinkedIn](https://linkedin.com/in/joao-henrique-gomes-pereira-07921831b)
-- [E-mail(mailto:joaohgpereira@gmail.com)
+- [E-mail](mailto:joaohgpereira@gmail.com)
