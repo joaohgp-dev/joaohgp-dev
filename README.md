@@ -19,21 +19,44 @@ I'm a Brazilian computer engineering student. I'm passionate about artificial in
 
 ### 🌱 Currently Learning | Estudando atualmente
 
-- Machine Learning | Aprendizado de máquina
-- Neural Networks | Redes Neurais
-- IoT & Microcontrollers | IoT e Microcontroladores
+- 🤖 Machine Learning | Aprendizado de máquina
+- 🧠 Neural Networks | Redes Neurais
+- 🔌 IoT & Microcontrollers | IoT e Microcontroladores
 
 &nbsp;
 
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
 
-#### Languages | Linguagens
-<img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
-<img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+<table>
+    <tr align="center">
+        <td>
+        Languages | Linguagens    
+        </td>
+        <td>
+        Frameworks 
+        </td>
+        <td>
+        Data Bases | Bancos de dados 
+        </td>
+        <td>
+        Dev Tools & Infra | Ferramentas e infraestrutura
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
+            <img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
+            <img alt="bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="border-radius: 5px"/>
+        </td>
+        <td>
+        . 
+        </td>
+    </tr>
+</table>
 
-#### Operational systems | Sistemas operacionais
-<img alt="Python" height="40" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
-<img alt="Python" height="40" src="https://devicon-website.vercel.app/api/windows8/original.svg"></img>
+
+<img alt="Linux" height="40" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
+<img alt="Windows" height="40" src="https://devicon-website.vercel.app/api/windows8/original.svg"></img>
 
 #### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
