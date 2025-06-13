@@ -11,16 +11,21 @@
 🇺🇸 Brazilian computer engineering student. AI, embedded systems & emerging tech enthusiast.  
 🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, sistemas embarcados & tec. emergentes.
 
-### 🌱 Learning | Estudando
-🇺🇸 🤖 Machine Learning • 🧠 Neural Networks • 🔌 IoT & Microcontrollers  
-🇧🇷 🤖 Aprendizado de máquina • 🧠 Redes Neurais • 🔌 IoT e Microcontroladores  
-
 ### 🎯 Goals | Objetivos
 🎓 Graduate in computer eng. | Forma-me em eng. da computação<br>
 💼 Land a position in AI/Data Science | Cargo em IA/Ciência de Dados<br>
 📚 Pursue a master's in AI | Iniciar um mestrado em IA<br>
 
-### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
+### 🚧 Highlighted Projects (Coming soon!) | Projetos em destaque (em breve!)
+🇺🇸 Soon, I'll highlight personal projects involving AI, computer vision and microcontrollers. 🚀  
+🇧🇷 Em breve, irei destacar projetos pessoais envolvendo IA, visão computacional e microcontroladores. 🚀
+
+### 🌱 Learning | Estudando
+🇺🇸 🤖 Machine Learning • 🧠 Neural Networks • 🔌 IoT & Microcontrollers  
+🇧🇷 🤖 Aprendizado de máquina • 🧠 Redes Neurais • 🔌 IoT e Microcontroladores  
+
+
+### 🛠️ Main skills | Habilidades principais
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
@@ -30,9 +35,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
-### 🚧 Highlighted Projects (Coming soon!) | Projetos em destaque (em breve!)
-🇺🇸 Soon, I'll highlight personal projects involving AI, computer vision and microcontrollers. 🚀
-🇧🇷 Em breve, irei destacar projetos pessoais envolvendo IA, visão computacional e microcontroladores. 🚀
+#### 🧰 Support skill | Habilidades complementares
+
+![]()
 
 ## 📫 Let's connect!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-gomes-pereira-07921831b) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohgpereira@gmail.com)
