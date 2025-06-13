@@ -1,25 +1,35 @@
-## Hi, I'm João Henrique 👨‍💻
+## Hi! I'm João Henrique 👨‍💻
+(Olá! Sou João Henrique 👨‍💻)
+
 &nbsp;
 <div align="center">
     <img height="174" src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&show_icons=true&theme=gotham&hide_border=true" />
       &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact&card_width=320&hide_border=true" />
 </div>
+&nbsp;
 
-
-I'm a Computer Engineering student passionate about intelligent systems, data visualization, and emerging technologies.
+<p>
+    I'm a computer engineering student from Brazil 🇧🇷. Passionate about intelligent systems, , and emerging technologies.<br>
+    (Eu sou estudante de engenharia da computação do Brasil 🇧🇷. Aficcionado por sistemas inteligentes, , e tecnologias emergentes.)
+</p>
 
 Currently focused on:
+(Atualmente focado em:)
 
 - 🤖 Artificial Intelligence and Neural Networks
+    (Inteligência articial e redes neurais)
 - 📡 Embedded Systems and IoT
+    (Sistemas embarcados e IoT)
 - ⚛️ Quantum Computing (beginner level)
-
+    (Computação Quântica (Nível introdutório))
 ---
 
 ## 🛠️ Tools & Technologies
+(Ferramentas e Tecnologias)
 
 ### Languages
+(Linguagens)
 <img height="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
 <img height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
 
