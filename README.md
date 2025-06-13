@@ -12,10 +12,21 @@
 <div>
   <img height="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
   <img height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+</div>
+
+### |
+
+<img src="https://devicon-website.vercel.app/api/bash/original.svg"></img>
+
+### | Tools
+
+
+<div>
   <img height="40" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
   <img height="40" src="https://devicon-website.vercel.app/api/tensorflow/original.svg"></img>
   <img height="40" src="https://devicon-website.vercel.app/api/pytorch/original.svg"></img>
   <img height="40" src="https://devicon-website.vercel.app/api/pandas/original.svg"></img>
+  <img height="40" src="https://devicon-website.vercel.app/api/numpy/original.svg"></img>
 </div>
 
 ----
