@@ -22,28 +22,16 @@
 
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
 
-<table>
-  <tr align="center">
-    <td><strong>Languages | Linguagens</strong></td>
-    <td><strong>Frameworks</strong></td>
-  </tr>
-  <tr align="center">
-    <td>
-      <img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg" />
-      <img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
-    </td>
-    <td>
-      <img alt="Pytorch" height="40" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
-      <img alt="TensorFlow" height="40" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
-      <img alt="Jupyter" height="40" src="https://devicon-website.vercel.app/api/jupyter/original.svg" />
-      <img alt="Numpy" height="40" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
-      <img alt="Pandas" height="40" src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23F2F2F2" />
-    </td>
-  </tr>
-</table>
+<!--
+#### Languages | Linguagens
+  
+<img alt="Python" height="40" src="https://devicon-website.vercel.app/api/python/original.svg" />Python<img alt="C++" height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />C++
 
+#### Frameworks
+  
+<img alt="Pytorch" height="40" src="https://devicon-website.vercel.app/api/pytorch/original.svg" /><img alt="TensorFlow" height="40" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" /><img alt="Jupyter" height="40" src="https://devicon-website.vercel.app/api/jupyter/original.svg" /><img alt="Numpy" height="40" src="https://devicon-website.vercel.app/api/numpy/original.svg" /><img alt="Pandas" height="40" src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23F2F2F2" />
+-->
 <!-- ### 📌 Highlighted Projects (Coming sonn!) -->
-
 
 ## 📫 Let's connect!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-gomes-pereira-07921831b) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohgpereira@gmail.com)
