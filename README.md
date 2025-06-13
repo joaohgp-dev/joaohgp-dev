@@ -10,14 +10,25 @@
 
 🇺🇸 Brazilian computer engineering student. AI, Embedded Systems & Emerging Tech enthusiast.  
 🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, Sistemas Embarcados & Tech emergentes.
+<table>
+<tr>
+  <td><strong>🌱 Learning | Estudando</strong>
+  <td><strong>🎯 Goals | Objetivos</strong></td>
+</tr>
+<tr>
+  <td>
+🤖 Machine Learning | Aprendizado de máquina <br>
+🧠 Neural Networks | Redes Neurais <br>
+🔌 IoT & Microcontrollers | IoT e Microcontroladores <br>
+  </td>
+  <td>
+🎓 Graduate in computer engineering | Graduar em engenharia da computação <br>
+💼 Land a position or internship in tech (AI or data-related) | <br>
+📚 Apply for a master’s program in artificial intelligence | <br>
+  </td>
+</tr>
+</table>
 
-<br>
-
-### 🌱 Currently Learning | Estudando atualmente
-
-- 🤖 Machine Learning | Aprendizado de máquina
-- 🧠 Neural Networks | Redes Neurais
-- 🔌 IoT & Microcontrollers | IoT e Microcontroladores
 
 <br>
 
@@ -27,7 +38,6 @@
   <tr align="center">
     <td><strong>Languages | Linguagens</strong></td>
     <td><strong>Frameworks</strong></td>
-    <!-- <td><strong>Tools & Infra | Ferramentas e infraestrutura</strong></td> -->
   </tr>
   <tr align="center">
     <td>
@@ -41,23 +51,12 @@
       <img alt="Numpy" height="40" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
       <img alt="Pandas" height="40" src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23F2F2F2" />
     </td>
-    <!-- <td>
-    </td> -->
   </tr>
 </table>
-<!--
-#### Tools
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-## 📌 Highlighted Projects (Coming sonn!)
-## 🎯 Goals for 2025
-- 🎓 Graduate in Computer Engineering (currently in 6th semester)
-- 💼 Land a position or internship in tech (AI or data-related)
-- 📚 Apply for a Master’s program in Artificial Intelligence
----
+
+<!-- ### 📌 Highlighted Projects (Coming sonn!) -->
+
+
 ## 📫 Let's connect!
-- [LinkedIn](https://linkedin.com/in/joao-henrique-gomes-pereira-07921831b)
+- ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/joão-henrique-gomes-pereira-07921831b)
 - [E-mail](mailto:joaohgpereira@gmail.com)
--->
