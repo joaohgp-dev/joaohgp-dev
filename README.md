@@ -26,7 +26,7 @@ I'm a Brazilian computer engineering student. I'm passionate about artificial in
 &nbsp;
 
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
-
+<!--
 <table>
     <tr align="center">
         <td>
@@ -99,3 +99,4 @@ I'm a Brazilian computer engineering student. I'm passionate about artificial in
 
 - [LinkedIn](https://linkedin.com/in/joao-henrique-gomes-pereira-07921831b)
 - [E-mail](mailto:joaohgpereira@gmail.com)
+-->
