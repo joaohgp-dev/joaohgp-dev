@@ -9,13 +9,17 @@
 ### 👨‍💻 About me | Sobre mim
 
 🇺🇸 Brazilian computer engineering student. AI, Embedded Systems & Emerging Tech enthusiast.  
-🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, Sistemas Embarcados & Tech emergentes.  
+🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, Sistemas Embarcados & Tech emergentes.
+
+<br>
 
 ### 🌱 Currently Learning | Estudando atualmente
 
 - 🤖 Machine Learning | Aprendizado de máquina
 - 🧠 Neural Networks | Redes Neurais
-- 🔌 IoT & Microcontrollers | IoT e Microcontroladores  
+- 🔌 IoT & Microcontrollers | IoT e Microcontroladores
+
+<br>
 
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
 <!--
