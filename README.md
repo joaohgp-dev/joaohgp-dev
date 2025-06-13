@@ -1,6 +1,5 @@
-## Hi there 👋, I'm João Henrique
+## Hi, I'm João Henrique 👨‍💻
 &nbsp;
-
 <div align="center">
     <img height="174" src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&show_icons=true&theme=gotham&hide_border=true" />
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -8,11 +7,15 @@
 </div>
 
 ---
-### Languages
+### 🛠️ | Languages
 
 <div>
   <img height="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
   <img height="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+  <img height="40" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
+  <img height="40" src="https://devicon-website.vercel.app/api/tensorflow/original.svg"></img>
+  <img height="40" src="https://devicon-website.vercel.app/api/pytorch/original.svg"></img>
+  <img height="40" src="https://devicon-website.vercel.app/api/pandas/original.svg"></img>
 </div>
 
 ----
