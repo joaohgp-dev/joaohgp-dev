@@ -16,13 +16,9 @@
 🇧🇷 🤖 Aprendizado de máquina • 🧠 Redes Neurais • 🔌 IoT e Microcontroladores  
 
 ### 🎯 Goals | Objetivos
-* 🎓 Graduate in computer eng. | Forma-me em eng. da computação<br>
-* 💼 Land a position in AI/Data Science | Cargo em IA/Ciência de Dados<br>
-* 📚 Pursue a master's in AI | Iniciar um mestrado em IA<br>
-  </td>
-</tr>
-</table> 
-<br>
+🎓 Graduate in computer eng. | Forma-me em eng. da computação<br>
+💼 Land a position in AI/Data Science | Cargo em IA/Ciência de Dados<br>
+📚 Pursue a master's in AI | Iniciar um mestrado em IA<br>
 
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
 
