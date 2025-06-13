@@ -10,26 +10,18 @@
 
 🇺🇸 Brazilian computer engineering student. AI, Embedded Systems & Emerging Tech enthusiast.  
 🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, Sistemas Embarcados & Tech emergentes.
-<table>
-<tr>
-  <td><strong>🌱 Learning | Estudando</strong>
-  <td><strong>🎯 Goals | Objetivos</strong></td>
-</tr>
-<tr>
-  <td>
-🤖 Machine Learning | Aprendizado de máquina <br>
-🧠 Neural Networks | Redes Neurais <br>
-🔌 IoT & Microcontrollers | IoT e Microcontroladores <br>
-  </td>
-  <td>
-🎓 Graduate in computer engineering | Graduar em engenharia da computação <br>
-💼 Land a position or internship in tech (AI or data-related) | <br>
-📚 Apply for a master’s program in artificial intelligence | <br>
+
+### 🌱 Learning | Estudando
+🇺🇸 🤖 Machine Learning • 🧠 Neural Networks • 🔌 IoT & Microcontrollers  
+🇧🇷 🤖 Aprendizado de máquina • 🧠 Redes Neurais • 🔌 IoT e Microcontroladores  
+
+### 🎯 Goals | Objetivos
+* 🎓 Graduate in computer eng. | Forma-me em eng. da computação<br>
+* 💼 Land a position in AI/Data Science | Cargo em IA/Ciência de Dados<br>
+* 📚 Pursue a master's in AI | Iniciar um mestrado em IA<br>
   </td>
 </tr>
-</table>
-
-
+</table> 
 <br>
 
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
@@ -58,5 +50,4 @@
 
 
 ## 📫 Let's connect!
-- ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/joão-henrique-gomes-pereira-07921831b)
-- [E-mail](mailto:joaohgpereira@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-gomes-pereira-07921831b) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohgpereira@gmail.com)
