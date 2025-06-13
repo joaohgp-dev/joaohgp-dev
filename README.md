@@ -22,7 +22,7 @@
 <br>
 
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
-<!--
+
 <table>
     <tr align="center">
         <td>
@@ -30,6 +30,9 @@
                 Languages|Linguagens
             </p>
         </td>
+    </tr>
+</table>
+
         <td>
         Frameworks 
         </td>
