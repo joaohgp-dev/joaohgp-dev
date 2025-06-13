@@ -41,7 +41,7 @@ I'm a Brazilian computer engineering student. I'm passionate about artificial in
         Data Bases|Bancos de dados
         </td>
         <td>
-        Dev Tools & Infra|Ferramentas e infraestrutura
+        Tools & Infra|Ferramentas e infraestrutura
         </td>
     </tr>
     <tr align="center">
