@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About me | Sobre mim
 
-I'm a Brazilian computer engineering student. I'm passionate about artificial intelligence, embedded systems and emerging technologies.
+I'm a Brazilian computer engineering student. I'm passionate about artificial intelligence, embedded systems and emerging technologies.  
 (Sou estudante de engenharia da computação brasileiro. Sou aficionado por inteligência artificial, sistemas embarcados e tecnologias emergentes.)
 
 &nbsp;
