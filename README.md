@@ -1,21 +1,15 @@
 
 ## 👋 Hi! I'm João Henrique | Olá! Sou João Henrique 
-
-
-&nbsp;
 <div align="center">
     <img height="174" src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&show_icons=true&theme=gotham&hide_border=true" />
       &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact&card_width=320&hide_border=true" />
 </div>
-&nbsp;
 
 ### 👨‍💻 About me | Sobre mim
 
 🇺🇸 Brazilian computer engineering student. AI, Embedded Systems & Emerging Tech enthusiast.  
-🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, Sistemas Embarcados & Tech emergentes. 
-
-&nbsp;
+🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, Sistemas Embarcados & Tech emergentes.
 
 ### 🌱 Currently Learning | Estudando atualmente
 
