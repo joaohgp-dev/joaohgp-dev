@@ -30,7 +30,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
-<!-- ### 📌 Highlighted Projects (Coming sonn!) -->
+### 🚧 Highlighted Projects (Coming soon!) | Projetos em destaque (em breve!)
+🇺🇸 Soon, I'll highlight personal projects involving AI, computer vision and microcontrollers. 🚀
+🇧🇷 Em breve, irei destacar projetos pessoais envolvendo IA, visão computacional e microcontroladores. 🚀
 
 ## 📫 Let's connect!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-gomes-pereira-07921831b) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohgpereira@gmail.com)
