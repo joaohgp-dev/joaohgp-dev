@@ -22,17 +22,14 @@
 
 ### 🛠️ Tools & Technologies | Ferramentas e Tecnologias
 
-<!--
-### Curent focus in:
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
-<img alt="Python" title="Python" height="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-<img alt="C++" title="C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img alt="Pytorch" title="Pytorch" height="50" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
-<img alt="TensorFlow" title="TensorFlow" height="50" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
-<img alt="Jupyter" title="Jupyter" height="50" src="https://devicon-website.vercel.app/api/jupyter/original.svg" />
-<img alt="Numpy" title="Numpy" height="50" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
-<img alt="Pandas" title="Pandas" height="50" src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23F2F2F2" />
--->
 <!-- ### 📌 Highlighted Projects (Coming sonn!) -->
 
 ## 📫 Let's connect!
