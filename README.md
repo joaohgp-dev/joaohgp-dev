@@ -15,10 +15,6 @@
 💼 Land a position in AI/Data Science | Cargo em IA/Ciência de Dados<br>
 📚 Pursue a master's in AI | Iniciar um mestrado em IA
 
-### 🚧 Highlighted Projects (Coming soon!) | Projetos em destaque (em breve!)
-🇺🇸 Soon, I'll highlight personal projects involving AI, computer vision and microcontrollers. 🚀  
-🇧🇷 Em breve, irei destacar projetos pessoais envolvendo IA, visão computacional e microcontroladores. 🚀
-
 ### 🚧 Highlighted Projects | Projetos em Destaque
 Soon, I'll highlight personal projects involving: | Em breve, irei destacar repositórios envolvendo:
 - 🔎 AI with Scikit-learn, Pandas & Jupyter | IA com Scikit-learn, Pandas e Jupyter
