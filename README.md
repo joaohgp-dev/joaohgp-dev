@@ -14,10 +14,6 @@ Soon, I'll highlight personal projects involving: | Em breve, irei destacar repo
 - 🔎 AI with Scikit-learn, Pandas & Jupyter | IA com Scikit-learn, Pandas e Jupyter
 - 🧠 Neural Nets with PyTorch & TensorFlow | Redes neurais com PyTorch e TensorFlow 
 - 🔌 Microcontroller Applications | Aplicações com microcontroladores
-
-### 🌱 Learning | Estudando
-🇺🇸 🤖 Machine Learning • 🧠 Neural Networks • 🔌 IoT & Microcontrollers  
-🇧🇷 🤖 Aprendizado de máquina • 🧠 Redes Neurais • 🔌 IoT e Microcontroladores
   
 ### 🛠️ Main skills | Habilidades principais
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
