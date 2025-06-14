@@ -1,21 +1,21 @@
 ## 👋 Hi! I'm João Henrique | Olá! Sou João Henrique
 
-### 👨‍💻 About me | Sobre mim
+## 👨‍💻 About me | Sobre mim
 🇺🇸 Brazilian computer engineering student. AI, embedded systems & emerging tech enthusiast.  
 🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, sistemas embarcados & tec. emergentes.
 
-### 🎯 Goals | Objetivos
+## 🎯 Goals | Objetivos
 🎓 Graduate in computer eng. | Forma-me em eng. da computação<br>
 💼 Land a position in AI/Data Science | Cargo em IA/Ciência de Dados<br>
 📚 Pursue a master's in AI | Iniciar um mestrado em IA
 
-### 🚧 Highlighted Projects | Projetos em Destaque
+## 🚧 Highlighted Projects | Projetos em Destaque
 Soon, I'll highlight personal projects involving: | Em breve, irei destacar repositórios envolvendo:
 - 🔎 AI with Scikit-learn, Pandas & Jupyter | IA com Scikit-learn, Pandas e Jupyter
 - 🧠 Neural Nets with PyTorch & TensorFlow | Redes neurais com PyTorch e TensorFlow 
 - 🔌 Microcontroller Applications | Aplicações com microcontroladores
   
-### 🛠️ Main skills | Habilidades principais
+## 🛠️ Main skills | Habilidades principais
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -23,14 +23,14 @@ Soon, I'll highlight personal projects involving: | Em breve, irei destacar repo
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-### 🔭 Learning now | Aprendendo agora
+## 🔭 Learning now | Aprendendo agora
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
-### 🧰 Support skills | Habilidades complementares
+## 🧰 Support skills | Habilidades complementares
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
