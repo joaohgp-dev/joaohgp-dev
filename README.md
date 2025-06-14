@@ -43,9 +43,3 @@ Soon, I'll highlight personal projects involving: | Em breve, irei destacar repo
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact&card_width=320&hide_border=true" />
 </div>
-
-<hr>
-<div align="center">
-📍 Living at the intersection of code & curiosity | Vivendo na interseção do código e da curiosidade 🚀<br>
-☕ Fuelled by coffee & late-night commits | Alimentado por café e commits noturnos 🌙
-</div>
