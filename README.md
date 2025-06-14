@@ -21,7 +21,7 @@ Soon, I'll highlight personal projects involving: | Em breve, irei destacar repo
   
 ### 🛠️ Main skills | Habilidades principais
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
