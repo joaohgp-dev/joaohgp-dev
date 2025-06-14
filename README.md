@@ -1,4 +1,4 @@
-## 👋 Hi! I'm João Henrique | Olá! Sou João Henrique
+# 👋 Hi! I'm João Henrique | Olá! Sou João Henrique
 
 ## 👨‍💻 About me | Sobre mim
 🇺🇸 Brazilian computer engineering student. AI, embedded systems & emerging tech enthusiast.  
