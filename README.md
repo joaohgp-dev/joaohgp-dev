@@ -2,15 +2,15 @@
 
 ## 👨‍💻 About me | Sobre mim
 🇺🇸 Brazilian computer engineering student. AI, embedded systems & emerging tech enthusiast.  
-🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, sistemas embarcados & tec. emergentes.
+🇧🇷 Estudante brasileiro de engenharia da computação. Entusiasta em IA, sistemas embarcados & tecnologias emergentes.
 
 ## 🎯 Goals | Objetivos
-🎓 Graduate in computer eng. | Formar-me em eng. da computação<br>
-💼 Land a position in AI/Data Science | Cargo em IA/Ciência de Dados<br>
+🎓 Graduate in computer engineering | Formar-me em engenharia da computação<br>
+💼 Secure a position in AI/Data science | Cargo em IA/Ciência de dados<br>
 📚 Pursue a master's in AI | Iniciar um mestrado em IA
 
 ## 🚧 Highlighted Projects | Projetos em Destaque
-Soon, I'll highlight personal projects involving: | Em breve, irei destacar repositórios envolvendo:
+Coming soon - personal projects involving: | Em breve - projetos pessoais envolvendo:
 - 🔎 AI with Scikit-learn, Pandas & Jupyter | IA com Scikit-learn, Pandas e Jupyter
 - 🧠 Neural Nets with PyTorch & TensorFlow | Redes neurais com PyTorch e TensorFlow 
 - 🔌 Microcontroller Applications | Aplicações com microcontroladores
