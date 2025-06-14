@@ -46,6 +46,6 @@ Soon, I'll highlight personal projects involving: | Em breve, irei destacar repo
 
 <hr>
 <div align="center">
-📍 Living at the intersection of code & curiosity | Vivendo na interseção do código e da curiosidade 🚀  
+📍 Living at the intersection of code & curiosity | Vivendo na interseção do código e da curiosidade 🚀<br>
 ☕ Fuelled by coffee & late-night commits | Alimentado por café e commits noturnos 🌙
 </div>
