@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About me | Sobre mim
 🇺🇸 Brazilian computer engineering student. AI, embedded systems & emerging tech enthusiast.  
-🇧🇷 Estudante brasileiro de engenharia da computação. Entusiasta em IA, sistemas embarcados & tecnologias emergentes.
+🇧🇷 Estudante brasileiro de engenharia da computação. Entusiasta em IA, sistemas embarcados e tecnologias emergentes.
 
 ## 🎯 Goals | Objetivos
 🎓 Graduate in computer engineering | Formar-me em engenharia da computação<br>
