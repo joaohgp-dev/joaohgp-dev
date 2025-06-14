@@ -5,7 +5,7 @@
 🇧🇷 Estudante de eng. da computação brasileiro. Entusiasta em IA, sistemas embarcados & tec. emergentes.
 
 ## 🎯 Goals | Objetivos
-🎓 Graduate in computer eng. | Forma-me em eng. da computação<br>
+🎓 Graduate in computer eng. | Formar-me em eng. da computação<br>
 💼 Land a position in AI/Data Science | Cargo em IA/Ciência de Dados<br>
 📚 Pursue a master's in AI | Iniciar um mestrado em IA
 
