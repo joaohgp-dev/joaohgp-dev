@@ -37,7 +37,6 @@ Soon, I'll highlight personal projects involving: | Em breve, irei destacar repo
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 
----
 <div align="center">
   <img height="174" src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&show_icons=true&theme=gotham&hide_border=true" />
     &nbsp;&nbsp;&nbsp;&nbsp;
