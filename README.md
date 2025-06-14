@@ -47,7 +47,10 @@ Soon, I'll highlight personal projects involving: | Em breve, irei destacar repo
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 
-<br>
-
 ## 📫 Let's connect!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-gomes-pereira-07921831b) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohgpereira@gmail.com)
+
+---
+
+📍 Living at the intersection of code & curiosity | Vivendo na interseção do código e da curiosidade 🚀
+☕ Fuelled by coffee & late-night commits | Alimentado por café e commits noturnos 🌙
