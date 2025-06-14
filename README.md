@@ -41,9 +41,6 @@ Soon, I'll highlight personal projects involving: | Em breve, irei destacar repo
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 
-## 📫 Let's connect!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-gomes-pereira-07921831b) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohgpereira@gmail.com)
-
 ---
 <div align="center">
   <img height="174" src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&show_icons=true&theme=gotham&hide_border=true" />
