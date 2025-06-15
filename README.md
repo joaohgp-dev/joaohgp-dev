@@ -38,9 +38,11 @@ Coming soon - personal projects involving: | Em breve - projetos pessoais envolv
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 
+---
+
+## 📊 My stats | Minhas estatísticas
+
 <div align="center">
-  <img height="174" src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&show_icons=true&theme=gotham&hide_border=true" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&size_weight=0.5&count_weight=0.5&&hide=javascript,java,lua&theme=gotham&layout=compact&card_width=320&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=joaohgp-dev&theme=gotham&hide_border=true" alt="joaohgp-dev's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=joaohgp-dev&theme=gotham&hide_border=true" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&hide=javascript,java,lua&theme=gotham&hide_border=true" height="220" />
 </div>
