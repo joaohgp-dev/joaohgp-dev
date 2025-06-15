@@ -44,6 +44,6 @@ Coming soon - personal projects involving: | Em breve - projetos pessoais envolv
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=joaohgp-dev&theme=gotham&hide_border=true" height="200" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&hide=javascript,java,lua&theme=gotham&hide_border=true" height="200" />
 </div>
