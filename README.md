@@ -43,7 +43,7 @@ Coming soon - personal projects involving: | Em breve - projetos pessoais envolv
 ## 📊 My stats | Minhas estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaohgp-dev&theme=gotham&hide_border=true" height="204" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaohgp-dev&theme=gotham&hide_border=true&border_radius=4&short_numbers=true" alt="GitHub Streak" height="204" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&hide=javascript,java,lua&theme=gotham&hide_border=true" height="204" />
 </div>
