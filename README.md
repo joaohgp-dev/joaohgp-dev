@@ -16,7 +16,7 @@ Coming soon - personal projects involving: | Em breve - projetos pessoais envolv
 - 🔌 Microcontroller Applications | Aplicações com microcontroladores
   
 ## 🛠️ Main skills | Habilidades principais
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
