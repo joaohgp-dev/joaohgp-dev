@@ -47,3 +47,5 @@ Coming soon - personal projects involving: | Em breve - projetos pessoais envolv
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&hide=javascript,java,lua,jupyter%20notebook&theme=gotham&hide_border=true" height="188" /></a>
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joaohgp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/joaohgp?trk=profile-badge">João Henrique</a></div>
