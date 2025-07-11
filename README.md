@@ -33,13 +33,3 @@ Coming soon - personal projects involving: | Em breve - projetos pessoais envolv
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
-
----
-
-## 📊 My stats | Minhas estatísticas
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaohgp-dev&theme=gotham&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&theme=gotham&hide_border=true" height="188" /></a>
-</div>
