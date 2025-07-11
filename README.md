@@ -17,6 +17,8 @@
 🇧🇷 **Eu registro meus estudos e progressos nesses repositórios.**
   
 [![ML/AI Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=ml-ai-journey&description_lines_count=3&theme=gotham&hide_border=true&bg_color=90,2E3332,3A504A,41A58C,2FCFA7)](https://github.com/joaohgp-dev/ml-ai-journey)
+[![Embedded Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=embedded-journey&description_lines_count=3&theme=gotham&hide_border=true&bg_color=90,2E3332,3A504A,41A58C,2FCFA7)](https://github.com/joaohgp-dev/embedded-journey)
+
 
 ## 🔥 Current focus | Foco atual
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
