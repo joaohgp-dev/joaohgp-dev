@@ -20,13 +20,13 @@
 [![Embedded Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=embedded-journey&description_lines_count=3&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/embedded-journey)
 
 
-## 🔥 Current focus | Foco atual
+## 🛠️ Main skills | Habilidades principais
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
-[![Rasberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 
 ## 🔭 Intristed in | Interesado em
+[![Rasberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
