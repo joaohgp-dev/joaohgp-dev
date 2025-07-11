@@ -12,9 +12,6 @@
 ## ✨ Highlighted Projects | Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=IA-simples-pizza&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/IA-simples-pizza)
 
-**🏗️ Also coming soon - personal projects involving: | também em breve - projetos pessoais envolvendo:**
-
-
 ## 🛠️ Main skills | Habilidades principais
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
