@@ -26,11 +26,11 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 
 ## 🔭 Intristed in | Interesado em
-[![Rasberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![Rasberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 
 ## 🧰 Support skills | Habilidades complementares
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
