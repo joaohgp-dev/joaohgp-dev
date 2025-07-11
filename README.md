@@ -5,12 +5,13 @@
 🇧🇷 Estudante brasileiro de engenharia da computação. Entusiasta em IA, sistemas embarcados e tecnologias emergentes.
 
 ## 🎯 Goals | Objetivos
-🎓 Graduate in computer engineering | Formar-me em engenharia da computação<br>
-💼 Secure a position as embedded software enginner | Garantir um cargo como engenheiro de software smbarcado<br>
-📚 Pursue a master's in AI | Iniciar um mestrado em IA
+🎓 Complete my degree in computer engineering. | Concluir minha graduação em engenharia da computação.<br>
+💼 Achieve a position as an embedded software enginner. | Alcançar um cargo de engenheiro de software embarcado.<br>
+📚 Enroll in a Master's in AI. | Ingressar em um mestrado em IA.
 
-## 🚧 Highlighted Projects | Projetos em Destaque
-Coming soon - personal projects involving: | Em breve - projetos pessoais envolvendo:
+## ✨ Highlighted Projects | Projetos em Destaque
+
+**🏗️ Also coming soon - personal projects involving: | também em breve - projetos pessoais envolvendo:**
 
 
 ## 🛠️ Main skills | Habilidades principais
