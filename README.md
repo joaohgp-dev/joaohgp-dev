@@ -10,6 +10,7 @@
 📚 Enroll in a Master's in AI. | Ingressar em um mestrado em IA.
 
 ## ✨ Highlighted Projects | Projetos em Destaque
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=IA-simples-pizza&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/IA-simples-pizza)
 
 **🏗️ Also coming soon - personal projects involving: | também em breve - projetos pessoais envolvendo:**
 
