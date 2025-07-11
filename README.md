@@ -10,14 +10,14 @@
 🎓 Enroll in a master's in AI. | Ingressar em um mestrado em IA.
 
 ## ✨ Highlighted Projects | Projetos em Destaque
-[![Project IA](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=IA-simples-pizza&theme=gotham&hide_border=true&bg_color=90,2E3332,3A504A,41A58C,2FCFA7)](https://github.com/joaohgp-dev/IA-simples-pizza)
+[![Project IA](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=IA-simples-pizza&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/IA-simples-pizza)
 
 ## 📚 Check out my study journeys | Cheque as minhas jornadas nos estudos
 🇺🇸 **I record my studies and my progress in these repositories.**  
 🇧🇷 **Eu registro meus estudos e progressos nesses repositórios.**
   
-[![ML/AI Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=ml-ai-journey&description_lines_count=3&theme=gotham&hide_border=true&bg_color=90,2E3332,3A504A,41A58C,2FCFA7)](https://github.com/joaohgp-dev/ml-ai-journey)
-[![Embedded Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=embedded-journey&description_lines_count=3&theme=gotham&hide_border=true&bg_color=90,2E3332,3A504A,41A58C,2FCFA7)](https://github.com/joaohgp-dev/embedded-journey)
+[![ML/AI Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=ml-ai-journey&description_lines_count=3&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/ml-ai-journey)
+[![Embedded Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=embedded-journey&description_lines_count=3&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/embedded-journey)
 
 
 ## 🔥 Current focus | Foco atual
@@ -41,7 +41,7 @@
 ## 📊 My Stats | Minhas estatísticas
 
 <div align=center>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&theme=gotham&hide_border=true&bg_color=90,2E3332,3A504A,41A58C,2FCFA7&rank_icon=github&locale=pt-br" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&theme=gotham&hide_border=true&locale=pt-br" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height=194 src="https://github-readme-stats.vercel.app/api/top-langs?username=joaohgp-dev&theme=gotham&hide_border=true&bg_color=90,2E3332,3A504A,3A504A,41A58C,2FCFA7&locale=pt-br&langs_count=8&card_width=320" />
+    <img height=194 src="https://github-readme-stats.vercel.app/api/top-langs?username=joaohgp-dev&theme=gotham&hide_border=true&locale=pt-br&langs_count=8&card_width=320" />
 </div>
