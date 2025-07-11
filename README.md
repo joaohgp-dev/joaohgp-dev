@@ -16,8 +16,8 @@
 🇺🇸 **I record my studies and my progress in these repositories.**  
 🇧🇷 **Eu registro meus estudos e progressos nesses repositórios.**
   
-[![ML/AI Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=ml-ai-journey&description_lines_count=3&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/ml-ai-journey)
 [![Embedded Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=embedded-journey&description_lines_count=3&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/embedded-journey)
+[![ML/AI Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=ml-ai-journey&description_lines_count=3&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/ml-ai-journey)
 
 
 ## 🛠️ Main skills | Habilidades principais
