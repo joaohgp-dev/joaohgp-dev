@@ -6,15 +6,13 @@
 
 ## 🎯 Goals | Objetivos
 🎓 Graduate in computer engineering | Formar-me em engenharia da computação<br>
-💼 Secure a position in AI/Data science | Cargo em IA/Ciência de dados<br>
+💼 Secure a position as embedded software enginner | Garantir um cargo como engenheiro de software smbarcado<br>
 📚 Pursue a master's in AI | Iniciar um mestrado em IA
 
 ## 🚧 Highlighted Projects | Projetos em Destaque
 Coming soon - personal projects involving: | Em breve - projetos pessoais envolvendo:
-- 🔎 AI with Scikit-learn, Pandas & Jupyter | IA com Scikit-learn, Pandas e Jupyter
-- 🧠 Neural Nets with PyTorch & TensorFlow | Redes neurais com PyTorch e TensorFlow 
-- 🔌 Microcontroller Applications | Aplicações com microcontroladores
-  
+
+
 ## 🛠️ Main skills | Habilidades principais
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
@@ -28,8 +26,6 @@ Coming soon - personal projects involving: | Em breve - projetos pessoais envolv
 [![Rasberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
-[![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
-[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 
 ## 🧰 Support skills | Habilidades complementares
 
@@ -45,5 +41,5 @@ Coming soon - personal projects involving: | Em breve - projetos pessoais envolv
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaohgp-dev&theme=gotham&hide_border=true&border_radius=4&short_numbers=true" alt="GitHub Streak" height="188" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&hide=javascript,java,lua,jupyter%20notebook&theme=gotham&hide_border=true" height="188" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgp-dev&theme=gotham&hide_border=true" height="188" /></a>
 </div>
