@@ -38,7 +38,7 @@
 ## 📊 My Stats | Minhas estatísticas
 
 <div align=center>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&theme=gotham&hide_border=true&locale=pt-br" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=joaohgp-dev&theme=gotham&hide_border=true" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height=194 src="https://github-readme-stats.vercel.app/api/top-langs?username=joaohgp-dev&theme=gotham&hide_border=true&locale=pt-br&langs_count=8&card_width=320" />
+    <img height=194 src="https://github-readme-stats.vercel.app/api/top-langs?username=joaohgp-dev&theme=gotham&hide_border=true&langs_count=8&card_width=320" />
 </div>
