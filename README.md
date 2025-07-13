@@ -13,7 +13,7 @@
 ## 📚 Check out my study journeys | Cheque as minhas jornadas nos estudos
 🇺🇸 **These repositories are my public study journals, where I document concepts, challenges and experiments.**  
 🇧🇷 **Esses repositórios funcionam como diários públicos de estudo, onde documento conceitos, desafios e experimentos.**  
-[![Embedded Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=embedded-journey&description_lines_count=3&theme=gotham&hide_border=true))](https://github.com/joaohgp-dev/embedded-journey)
+[![Embedded Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=embedded-journey&description_lines_count=4&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/embedded-journey)
 [![ML/AI Journey](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=ml-ai-journey&description_lines_count=3&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/ml-ai-journey)
 
 
