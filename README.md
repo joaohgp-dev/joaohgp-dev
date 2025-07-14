@@ -19,9 +19,9 @@
 
 ## 🛠️ Continuously improving | Continuamente aprimorando
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 
 ## 🔭 Currently exploring | Explorando atualmente
 [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
