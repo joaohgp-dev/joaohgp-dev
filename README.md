@@ -1,6 +1,6 @@
 # 👋 João Henrique
-**🇧🇷 Estudante de engenharia da computação. Entusiasta em sistemas embarcados, IA e tecnologias emergentes.**  
 **🇺🇸 Computer engineering student. Enthusiast in embedded systems, AI and emerging eechnologies.**
+**🇧🇷 Estudante de engenharia da computação.   Entusiasta em sistemas embarcados, IA e tecnologias emergentes.**
 
 ## 🎯 Goals | Objetivos
 * 👨‍🎓 Finish my degree in computer engineering | Concluir minha graduação em engenharia da computação  
