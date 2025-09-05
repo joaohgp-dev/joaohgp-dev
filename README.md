@@ -12,6 +12,6 @@
 * Amperistas
 
 ### Technologies — Tecnologias
-* Repertório: C/C++, Python, Arduino, ESP32, Git  
-* Em desenvolvimento: Rust, Assembly, GitHub Actions  
-* A aprender: I2C/SPI/USART, GDB, Linear algebra, Quantum mechanics
+* Directory — Repertório: C/C++, Python, Arduino, ESP32, Git  
+* In Development — Em desenvolvimento: Rust, Assembly, GitHub Actions, I2C/SPI/USART  
+* To learn — A aprender: GDB, linear algebra — álgebra linear, quantum mechanics — mecânica quântica
