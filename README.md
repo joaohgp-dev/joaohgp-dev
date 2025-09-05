@@ -8,7 +8,7 @@
 
 ### Highlighted projects — Projetos em destaque
 * People counter — Contador de pessoas
-* Miniaturized weather station — Miniaturized weather station
+* Miniaturized weather station — Estação metereológica miniaturalizada
 * Amperistas
 
 ### Technologies — Tecnologias
