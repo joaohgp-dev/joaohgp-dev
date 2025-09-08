@@ -1,6 +1,6 @@
 # João Henrique
-[EN] Computer engineering student, focused on embedded systems.  
-[BR] Estudante de engenharia da computação, focado em sistemas embarcados.
+[EN] Computer engineering student focused on embedded systems.  
+[BR] Estudante de engenharia da computação focado em sistemas embarcados.
 
 ### Goals | Objetivos
 * Work as an embedded systems engineer. | Atuar como engenheiro de sistemas embarcados.  
@@ -16,5 +16,5 @@
   * C/C++, Python, Arduino, ESP32, Git  
 * In Development | Em desenvolvimento
   * Rust, Assembly, GitHub Actions, I2C/SPI/USART  
-* To learn | A aprender 
+* learning goals | Objetivos de aprendizado
   * GDB, linear algebra / álgebra linear, quantum mechanics / mecânica quântica
