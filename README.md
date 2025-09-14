@@ -11,7 +11,7 @@
 
 <div align=left>
  
-[![Contagem de entrada](https://githu-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=sistema-de-entrada&description_lines_count=5&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/sistema-de-entrada)
+[![Contagem de entrada](https://github-readme-stats.vercel.app/api/pin/?username=joaohgp-dev&repo=sistema-de-entrada&theme=gotham&hide_border=true)](https://github.com/joaohgp-dev/sistema-de-entrada)
 
 </div>
 
